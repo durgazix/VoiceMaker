@@ -63,9 +63,11 @@ temp_audio.wav
 *.onnx
 
 # Voice cloning models and samples
+*.pdf
+
 voice_models/
 backend/voice_models/
 
-Software Engineering Project/
+Software Engineering Project
 README.md
 backend/VOICE_CLONING_README.md
